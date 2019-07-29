@@ -1,0 +1,593 @@
+{
+  "_class": "document",
+  "do_objectID": "pizza",
+  "assets": {
+    "_class": "assetCollection",
+    "colors": []
+  },
+  "currentPageIndex": 0,
+  "enableLayerInteraction": true,
+  "enableSliceInteraction": true,
+  "foreignSymbols": [],
+  "layerStyles": {
+    "_class": "sharedStyleContainer",
+    "objects": [
+      {
+        "_class": "sharedStyle",
+        "do_objectID": "86863eae-f8e1-4b11-9914-4ef2411ba343",
+        "name": "",
+        "style": {
+          "color": "rgb(0, 0, 0)",
+          "fontSize": 18,
+          "fontFamily": "Times New Roman",
+          "fontWeight": 700,
+          "textDecoration": "none",
+          "textAlign": "start",
+          "textTransform": "none"
+        }
+      },
+      {
+        "_class": "sharedStyle",
+        "do_objectID": "c06af8e7-2972-4e76-bb4e-19ef6a99c22c",
+        "name": "image",
+        "style": {
+          "_class": "style",
+          "fills": [
+            {
+              "_class": "fill",
+              "isEnabled": true,
+              "color": {
+                "_class": "color",
+                "red": 0,
+                "green": 0,
+                "blue": 0,
+                "alpha": 0
+              },
+              "fillType": 0,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            },
+            {
+              "_class": "fill",
+              "isEnabled": true,
+              "fillType": 4,
+              "image": {
+                "_class": "MSJSONOriginalDataReference",
+                "_ref_class": "MSImageData",
+                "_ref": "images/960e02a5-82b8-4e59-a464-99aef255f90e",
+                "url": "file:///Users/dayne/projects/html-sketchapp/e2e/tests/assets/blue.jpg"
+              },
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "borders": [
+            {
+              "_class": "border",
+              "isEnabled": true,
+              "color": {
+                "_class": "color",
+                "red": 0,
+                "green": 0,
+                "blue": 0,
+                "alpha": 1
+              },
+              "fillType": 0,
+              "position": 1,
+              "thickness": 0
+            }
+          ],
+          "shadows": [],
+          "innerShadows": [],
+          "endDecorationType": 0,
+          "miterLimit": 10,
+          "startDecorationType": 0,
+          "contextSettings": {
+            "_class": "graphicsContextSettings",
+            "blendMode": 0,
+            "opacity": "1"
+          }
+        }
+      },
+      {
+        "_class": "sharedStyle",
+        "do_objectID": "8ccfeca2-4c66-4dad-bc3e-0b31e3008aee",
+        "name": "",
+        "style": {
+          "color": "rgb(0, 0, 0)",
+          "fontSize": 18,
+          "fontFamily": "Times New Roman",
+          "fontWeight": 700,
+          "textDecoration": "none",
+          "textAlign": "start",
+          "textTransform": "none"
+        }
+      },
+      {
+        "_class": "sharedStyle",
+        "do_objectID": "ccc73f13-a39f-4aac-af9e-0387d670b040",
+        "name": "image",
+        "style": {
+          "_class": "style",
+          "fills": [
+            {
+              "_class": "fill",
+              "isEnabled": true,
+              "color": {
+                "_class": "color",
+                "red": 0,
+                "green": 0,
+                "blue": 0,
+                "alpha": 0
+              },
+              "fillType": 0,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            },
+            {
+              "_class": "fill",
+              "isEnabled": true,
+              "fillType": 4,
+              "image": {
+                "_class": "MSJSONOriginalDataReference",
+                "_ref_class": "MSImageData",
+                "_ref": "images/b0232c94-3304-4495-8310-2600ab9b3c40",
+                "url": "file:///Users/dayne/projects/html-sketchapp/e2e/tests/assets/red.png"
+              },
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "borders": [
+            {
+              "_class": "border",
+              "isEnabled": true,
+              "color": {
+                "_class": "color",
+                "red": 0,
+                "green": 0,
+                "blue": 0,
+                "alpha": 1
+              },
+              "fillType": 0,
+              "position": 1,
+              "thickness": 0
+            }
+          ],
+          "shadows": [],
+          "innerShadows": [],
+          "endDecorationType": 0,
+          "miterLimit": 10,
+          "startDecorationType": 0,
+          "contextSettings": {
+            "_class": "graphicsContextSettings",
+            "blendMode": 0,
+            "opacity": "1"
+          }
+        }
+      },
+      {
+        "_class": "sharedStyle",
+        "do_objectID": "5bbaf705-5ff3-4fa7-ac66-21f4cc5d80b5",
+        "name": "",
+        "style": {
+          "color": "rgb(0, 0, 0)",
+          "fontSize": 18,
+          "fontFamily": "Times New Roman",
+          "fontWeight": 700,
+          "textDecoration": "none",
+          "textAlign": "start",
+          "textTransform": "none"
+        }
+      },
+      {
+        "_class": "sharedStyle",
+        "do_objectID": "22f026e7-6243-44a5-a6f2-e4313556b68e",
+        "name": "image",
+        "style": {
+          "_class": "style",
+          "fills": [
+            {
+              "_class": "fill",
+              "isEnabled": true,
+              "color": {
+                "_class": "color",
+                "red": 0,
+                "green": 0,
+                "blue": 0,
+                "alpha": 0
+              },
+              "fillType": 0,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            },
+            {
+              "_class": "fill",
+              "isEnabled": true,
+              "fillType": 4,
+              "image": {
+                "_class": "MSJSONOriginalDataReference",
+                "_ref_class": "MSImageData",
+                "_ref": "images/25690655-e4eb-4740-bfdb-50b54c953b53",
+                "url": "file:///Users/dayne/projects/html-sketchapp/e2e/tests/assets/yellow.gif"
+              },
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "borders": [
+            {
+              "_class": "border",
+              "isEnabled": true,
+              "color": {
+                "_class": "color",
+                "red": 0,
+                "green": 0,
+                "blue": 0,
+                "alpha": 1
+              },
+              "fillType": 0,
+              "position": 1,
+              "thickness": 0
+            }
+          ],
+          "shadows": [],
+          "innerShadows": [],
+          "endDecorationType": 0,
+          "miterLimit": 10,
+          "startDecorationType": 0,
+          "contextSettings": {
+            "_class": "graphicsContextSettings",
+            "blendMode": 0,
+            "opacity": "1"
+          }
+        }
+      },
+      {
+        "_class": "sharedStyle",
+        "do_objectID": "fb033bf9-16da-4e77-aabf-991b41f99ecc",
+        "name": "",
+        "style": {
+          "color": "rgb(0, 0, 0)",
+          "fontSize": 18,
+          "fontFamily": "Times New Roman",
+          "fontWeight": 700,
+          "textDecoration": "none",
+          "textAlign": "start",
+          "textTransform": "none"
+        }
+      },
+      {
+        "_class": "sharedStyle",
+        "do_objectID": "1f7cd305-d64c-4b26-9397-63aad7984ee0",
+        "name": "image",
+        "style": {
+          "_class": "style",
+          "fills": [
+            {
+              "_class": "fill",
+              "isEnabled": true,
+              "color": {
+                "_class": "color",
+                "red": 0,
+                "green": 0,
+                "blue": 0,
+                "alpha": 0
+              },
+              "fillType": 0,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            },
+            {
+              "_class": "fill",
+              "isEnabled": true,
+              "fillType": 4,
+              "image": {
+                "_class": "MSJSONOriginalDataReference",
+                "_ref_class": "MSImageData",
+                "_ref": "images/86c6585c-a9ab-4c9e-b6e5-fe39d357b34e",
+                "url": "file:///Users/dayne/projects/html-sketchapp/e2e/tests/assets/green.svg"
+              },
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "borders": [
+            {
+              "_class": "border",
+              "isEnabled": true,
+              "color": {
+                "_class": "color",
+                "red": 0,
+                "green": 0,
+                "blue": 0,
+                "alpha": 1
+              },
+              "fillType": 0,
+              "position": 1,
+              "thickness": 0
+            }
+          ],
+          "shadows": [],
+          "innerShadows": [],
+          "endDecorationType": 0,
+          "miterLimit": 10,
+          "startDecorationType": 0,
+          "contextSettings": {
+            "_class": "graphicsContextSettings",
+            "blendMode": 0,
+            "opacity": "1"
+          }
+        }
+      },
+      {
+        "_class": "sharedStyle",
+        "do_objectID": "8f91d2b0-2e38-418e-a3cb-d78c05498181",
+        "name": "",
+        "style": {
+          "color": "rgb(0, 0, 0)",
+          "fontSize": 18,
+          "fontFamily": "Times New Roman",
+          "fontWeight": 700,
+          "textDecoration": "none",
+          "textAlign": "start",
+          "textTransform": "none"
+        }
+      },
+      {
+        "_class": "sharedStyle",
+        "do_objectID": "f3895c26-cae3-4c8e-bfa5-7e37047276bb",
+        "name": "image",
+        "style": {
+          "_class": "style",
+          "fills": [
+            {
+              "_class": "fill",
+              "isEnabled": true,
+              "color": {
+                "_class": "color",
+                "red": 0,
+                "green": 0,
+                "blue": 0,
+                "alpha": 0
+              },
+              "fillType": 0,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            },
+            {
+              "_class": "fill",
+              "isEnabled": true,
+              "fillType": 4,
+              "image": {
+                "_class": "MSJSONOriginalDataReference",
+                "_ref_class": "MSImageData",
+                "_ref": "images/c5983ae6-3e35-4447-b60c-199a646c24ef",
+                "url": "file:///Users/dayne/projects/html-sketchapp/e2e/tests/assets/red.png"
+              },
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "borders": [
+            {
+              "_class": "border",
+              "isEnabled": true,
+              "color": {
+                "_class": "color",
+                "red": 0,
+                "green": 0,
+                "blue": 0,
+                "alpha": 1
+              },
+              "fillType": 0,
+              "position": 1,
+              "thickness": 0
+            }
+          ],
+          "shadows": [],
+          "innerShadows": [],
+          "endDecorationType": 0,
+          "miterLimit": 10,
+          "startDecorationType": 0,
+          "contextSettings": {
+            "_class": "graphicsContextSettings",
+            "blendMode": 0,
+            "opacity": "1"
+          }
+        }
+      },
+      {
+        "_class": "sharedStyle",
+        "do_objectID": "2ed56133-cf77-48e2-bc6d-ce6f76574936",
+        "name": "",
+        "style": {
+          "color": "rgb(0, 0, 0)",
+          "fontSize": 18,
+          "fontFamily": "Times New Roman",
+          "fontWeight": 700,
+          "textDecoration": "none",
+          "textAlign": "start",
+          "textTransform": "none"
+        }
+      },
+      {
+        "_class": "sharedStyle",
+        "do_objectID": "8721921e-b9b3-4014-88af-bfaef5b32940",
+        "name": "image",
+        "style": {
+          "_class": "style",
+          "fills": [
+            {
+              "_class": "fill",
+              "isEnabled": true,
+              "color": {
+                "_class": "color",
+                "red": 0,
+                "green": 0,
+                "blue": 0,
+                "alpha": 0
+              },
+              "fillType": 0,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            },
+            {
+              "_class": "fill",
+              "isEnabled": true,
+              "fillType": 4,
+              "image": {
+                "_class": "MSJSONOriginalDataReference",
+                "_ref_class": "MSImageData",
+                "_ref": "images/6090d12a-86a4-4e40-bb49-9bd4f4e1ca6e",
+                "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjwhLS0gQ3JlYXRlZCB3aXRoIElua3NjYXBlIChodHRwOi8vd3d3Lmlua3NjYXBlLm9yZy8pIC0tPgo8c3ZnCiAgIHhtbG5zOnN2Zz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiAgIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIKICAgdmVyc2lvbj0iMS4wIgogICB3aWR0aD0iMTAwIgogICBoZWlnaHQ9IjEwMCIKICAgaWQ9InN2ZzcwMTEiPgogIDxkZWZzCiAgICAgaWQ9ImRlZnM3MDEzIiAvPgogIDxnCiAgICAgaWQ9ImxheWVyMSI+CiAgICA8cGF0aAogICAgICAgZD0iTSA5MS44NjI4ODksNC40MzgzMjM3IEMgNDguMjcwOTksODYuNzAyNDIgNDguMjcwOTksODYuNzAyNDIgNDguMjcwOTksODYuNzAyNDIgTCA1LjExOTQxNDEsNTguMTYxODE3IgogICAgICAgc3R5bGU9ImZpbGw6bm9uZTtmaWxsLXJ1bGU6ZXZlbm9kZDtzdHJva2U6IzAwODAwMDtzdHJva2Utd2lkdGg6MTguMzUwOTk5ODM7c3Ryb2tlLWxpbmVjYXA6YnV0dDtzdHJva2UtbGluZWpvaW46bWl0ZXI7c3Ryb2tlLW1pdGVybGltaXQ6NDtzdHJva2UtZGFzaGFycmF5Om5vbmU7c3Ryb2tlLW9wYWNpdHk6MSIKICAgICAgIGlkPSJwYXRoNzAxOSIgLz4KICA8L2c+Cjwvc3ZnPgo="
+              },
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "borders": [
+            {
+              "_class": "border",
+              "isEnabled": true,
+              "color": {
+                "_class": "color",
+                "red": 0,
+                "green": 0,
+                "blue": 0,
+                "alpha": 1
+              },
+              "fillType": 0,
+              "position": 1,
+              "thickness": 0
+            }
+          ],
+          "shadows": [],
+          "innerShadows": [],
+          "endDecorationType": 0,
+          "miterLimit": 10,
+          "startDecorationType": 0,
+          "contextSettings": {
+            "_class": "graphicsContextSettings",
+            "blendMode": 0,
+            "opacity": "1"
+          }
+        }
+      },
+      {
+        "_class": "sharedStyle",
+        "do_objectID": "3f329412-26f1-4cb0-9015-ca2a2b7b890f",
+        "name": "",
+        "style": {
+          "color": "rgb(0, 0, 0)",
+          "fontSize": 18,
+          "fontFamily": "Times New Roman",
+          "fontWeight": 700,
+          "textDecoration": "none",
+          "textAlign": "start",
+          "textTransform": "none"
+        }
+      },
+      {
+        "_class": "sharedStyle",
+        "do_objectID": "0e52b282-038e-4c1d-9829-1f53cfbfb8a6",
+        "name": "image",
+        "style": {
+          "_class": "style",
+          "fills": [
+            {
+              "_class": "fill",
+              "isEnabled": true,
+              "color": {
+                "_class": "color",
+                "red": 0,
+                "green": 0,
+                "blue": 0,
+                "alpha": 0
+              },
+              "fillType": 0,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            },
+            {
+              "_class": "fill",
+              "isEnabled": true,
+              "fillType": 4,
+              "image": {
+                "_class": "MSJSONOriginalDataReference",
+                "_ref_class": "MSImageData",
+                "_ref": "images/9518b4bc-889b-4984-b7ca-1f03222b0f16",
+                "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjwhLS0gQ3JlYXRlZCB3aXRoIElua3NjYXBlIChodHRwOi8vd3d3Lmlua3NjYXBlLm9yZy8pIC0tPgo8c3ZnCiAgIHhtbG5zOnN2Zz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiAgIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIKICAgdmVyc2lvbj0iMS4wIgogICB3aWR0aD0iMTAwIgogICBoZWlnaHQ9IjEwMCIKICAgaWQ9InN2ZzcwMTEiPgogIDxkZWZzCiAgICAgaWQ9ImRlZnM3MDEzIiAvPgogIDxnCiAgICAgaWQ9ImxheWVyMSI+CiAgICA8cGF0aAogICAgICAgZD0iTSA5MS44NjI4ODksNC40MzgzMjM3IEMgNDguMjcwOTksODYuNzAyNDIgNDguMjcwOTksODYuNzAyNDIgNDguMjcwOTksODYuNzAyNDIgTCA1LjExOTQxNDEsNTguMTYxODE3IgogICAgICAgc3R5bGU9ImZpbGw6bm9uZTtmaWxsLXJ1bGU6ZXZlbm9kZDtzdHJva2U6IzAwODAwMDtzdHJva2Utd2lkdGg6MTguMzUwOTk5ODM7c3Ryb2tlLWxpbmVjYXA6YnV0dDtzdHJva2UtbGluZWpvaW46bWl0ZXI7c3Ryb2tlLW1pdGVybGltaXQ6NDtzdHJva2UtZGFzaGFycmF5Om5vbmU7c3Ryb2tlLW9wYWNpdHk6MSIKICAgICAgIGlkPSJwYXRoNzAxOSIgLz4KICA8L2c+Cjwvc3ZnPgo="
+              },
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "borders": [
+            {
+              "_class": "border",
+              "isEnabled": true,
+              "color": {
+                "_class": "color",
+                "red": 0,
+                "green": 0,
+                "blue": 0,
+                "alpha": 1
+              },
+              "fillType": 0,
+              "position": 1,
+              "thickness": 0
+            }
+          ],
+          "shadows": [],
+          "innerShadows": [],
+          "endDecorationType": 0,
+          "miterLimit": 10,
+          "startDecorationType": 0,
+          "contextSettings": {
+            "_class": "graphicsContextSettings",
+            "blendMode": 0,
+            "opacity": "1"
+          }
+        }
+      }
+    ]
+  },
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": []
+  },
+  "layerTextStyles": {
+    "_class": "sharedTextStyleContainer",
+    "objects": []
+  },
+  "pages": []
+}

@@ -1,0 +1,68 @@
+{
+  "_class": "document",
+  "do_objectID": "pizza",
+  "assets": {
+    "_class": "assetCollection",
+    "colors": []
+  },
+  "currentPageIndex": 0,
+  "enableLayerInteraction": true,
+  "enableSliceInteraction": true,
+  "foreignSymbols": [],
+  "layerStyles": {
+    "_class": "sharedStyleContainer",
+    "objects": [
+      {
+        "_class": "sharedStyle",
+        "do_objectID": "d5fec226-416b-4184-8ff7-476a985267a2",
+        "name": "",
+        "style": {
+          "color": "rgb(0, 0, 0)",
+          "fontSize": 16,
+          "fontFamily": "Times New Roman",
+          "fontWeight": 400,
+          "textDecoration": "none",
+          "textAlign": "start",
+          "textTransform": "none"
+        }
+      },
+      {
+        "_class": "sharedStyle",
+        "do_objectID": "2cf49fa8-7734-4f5c-9174-da9ded6e86b6",
+        "name": "",
+        "style": {
+          "color": "rgb(0, 0, 0)",
+          "fontSize": 13,
+          "fontFamily": "monospace",
+          "fontWeight": 400,
+          "textDecoration": "none",
+          "textAlign": "start",
+          "textTransform": "none"
+        }
+      },
+      {
+        "_class": "sharedStyle",
+        "do_objectID": "4d449a9b-db19-40ec-a1ad-1d8653980b43",
+        "name": "",
+        "style": {
+          "color": "rgb(0, 0, 0)",
+          "fontSize": 16,
+          "fontFamily": "Times New Roman",
+          "fontWeight": 400,
+          "textDecoration": "none",
+          "textAlign": "start",
+          "textTransform": "none"
+        }
+      }
+    ]
+  },
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": []
+  },
+  "layerTextStyles": {
+    "_class": "sharedTextStyleContainer",
+    "objects": []
+  },
+  "pages": []
+}

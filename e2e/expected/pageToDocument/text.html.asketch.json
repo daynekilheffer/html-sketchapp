@@ -1,0 +1,126 @@
+{
+  "_class": "document",
+  "do_objectID": "pizza",
+  "assets": {
+    "_class": "assetCollection",
+    "colors": []
+  },
+  "currentPageIndex": 0,
+  "enableLayerInteraction": true,
+  "enableSliceInteraction": true,
+  "foreignSymbols": [],
+  "layerStyles": {
+    "_class": "sharedStyleContainer",
+    "objects": [
+      {
+        "_class": "sharedStyle",
+        "do_objectID": "df19b945-3d6d-4e1b-8d40-d31837cb8a98",
+        "name": "font1",
+        "style": {
+          "color": "rgb(255, 0, 0)",
+          "fontSize": 16,
+          "fontFamily": "CourierNew",
+          "fontWeight": 400,
+          "textDecoration": "none",
+          "textAlign": "start",
+          "textTransform": "none"
+        }
+      },
+      {
+        "_class": "sharedStyle",
+        "do_objectID": "0f813c15-0c2c-4b34-a2c1-30d09c359c2a",
+        "name": "font2",
+        "style": {
+          "color": "rgb(0, 128, 0)",
+          "fontSize": 16,
+          "fontFamily": "Times New Roman",
+          "fontWeight": 400,
+          "textDecoration": "none",
+          "textAlign": "start",
+          "letterSpacing": 20,
+          "textTransform": "none"
+        }
+      },
+      {
+        "_class": "sharedStyle",
+        "do_objectID": "d5441110-4cd2-41a9-96ee-aff2efe7cba3",
+        "name": "font3",
+        "style": {
+          "color": "rgb(0, 0, 255)",
+          "fontSize": 30,
+          "fontFamily": "Times New Roman",
+          "fontWeight": 400,
+          "lineHeight": 40,
+          "textDecoration": "none",
+          "textAlign": "start",
+          "textTransform": "none"
+        }
+      },
+      {
+        "_class": "sharedStyle",
+        "do_objectID": "e3e995b4-9bd9-404a-bcee-4cc00227620b",
+        "name": "font4",
+        "style": {
+          "color": "rgb(0, 0, 0)",
+          "fontSize": 16,
+          "fontFamily": "Times New Roman",
+          "fontWeight": 400,
+          "textDecoration": "none",
+          "textAlign": "center",
+          "textTransform": "uppercase"
+        }
+      },
+      {
+        "_class": "sharedStyle",
+        "do_objectID": "86aa1380-5c33-4690-9e2a-4d3f2b5d5e39",
+        "name": "font5",
+        "style": {
+          "color": "rgb(0, 0, 0)",
+          "fontSize": 16,
+          "fontFamily": "Times New Roman",
+          "fontWeight": 400,
+          "textDecoration": "underline",
+          "textAlign": "start",
+          "textTransform": "none"
+        }
+      },
+      {
+        "_class": "sharedStyle",
+        "do_objectID": "069c9aab-39da-4652-b537-1623b037bca9",
+        "name": "font6",
+        "style": {
+          "color": "rgb(0, 0, 0)",
+          "fontSize": 16,
+          "fontFamily": "Times New Roman",
+          "fontWeight": 400,
+          "textDecoration": "line-through",
+          "textAlign": "start",
+          "textTransform": "none"
+        }
+      },
+      {
+        "_class": "sharedStyle",
+        "do_objectID": "b1221fb9-8ea3-4696-ac31-e59918e9c383",
+        "name": "font7",
+        "style": {
+          "color": "rgb(0, 0, 0)",
+          "fontSize": 16,
+          "fontFamily": "Times New Roman",
+          "fontWeight": 400,
+          "textDecoration": "none",
+          "textAlign": "right",
+          "textTransform": "none"
+        }
+      }
+    ]
+  },
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": []
+  },
+  "layerTextStyles": {
+    "_class": "sharedTextStyleContainer",
+    "objects": []
+  },
+  "pages": []
+}

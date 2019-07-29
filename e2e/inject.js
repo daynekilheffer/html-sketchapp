@@ -35,3 +35,18 @@ export function nodeTreeToSketchPageTest(startNode) {
 
   return page.toJSON();
 }
+
+export function pageToDocumentTest(startNode) {
+  const doc = new HtmlSketchApp.Document();
+
+  Array.from(startNode.children)
+    .forEach(node => {
+      const [layer] = HtmlSketchApp.nodeToSketchLayers(node);
+
+      if (layer) {
+        layer.setName(node.className);
+        doc.addLayerStyle(layer);
+      }
+    });
+  return doc.toJSON();
+}

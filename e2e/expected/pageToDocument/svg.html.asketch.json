@@ -1,0 +1,134 @@
+{
+  "_class": "document",
+  "do_objectID": "pizza",
+  "assets": {
+    "_class": "assetCollection",
+    "colors": []
+  },
+  "currentPageIndex": 0,
+  "enableLayerInteraction": true,
+  "enableSliceInteraction": true,
+  "foreignSymbols": [],
+  "layerStyles": {
+    "_class": "sharedStyleContainer",
+    "objects": [
+      {
+        "_class": "sharedStyle",
+        "do_objectID": "1bcdbcf3-bdc6-4cb8-b67b-bbb0f260af71",
+        "name": "",
+        "style": {
+          "color": "rgb(0, 0, 0)",
+          "fontSize": 18,
+          "fontFamily": "Times New Roman",
+          "fontWeight": 700,
+          "textDecoration": "none",
+          "textAlign": "start",
+          "textTransform": "none"
+        }
+      },
+      {
+        "_class": "sharedStyle",
+        "do_objectID": "1cec7da4-5860-4baf-ba93-92f65dccee76",
+        "name": "",
+        "style": {
+          "color": "rgb(0, 0, 0)",
+          "fontSize": 18,
+          "fontFamily": "Times New Roman",
+          "fontWeight": 700,
+          "textDecoration": "none",
+          "textAlign": "start",
+          "textTransform": "none"
+        }
+      },
+      {
+        "_class": "sharedStyle",
+        "do_objectID": "7dac23d9-3eaf-4edc-a3f1-d1b45e0e8347",
+        "name": "",
+        "style": {
+          "color": "rgb(0, 0, 0)",
+          "fontSize": 18,
+          "fontFamily": "Times New Roman",
+          "fontWeight": 700,
+          "textDecoration": "none",
+          "textAlign": "start",
+          "textTransform": "none"
+        }
+      },
+      {
+        "_class": "sharedStyle",
+        "do_objectID": "f0bc2569-3c83-425c-8399-30974f3614e3",
+        "name": "",
+        "style": {
+          "color": "rgb(0, 0, 0)",
+          "fontSize": 18,
+          "fontFamily": "Times New Roman",
+          "fontWeight": 700,
+          "textDecoration": "none",
+          "textAlign": "start",
+          "textTransform": "none"
+        }
+      },
+      {
+        "_class": "sharedStyle",
+        "do_objectID": "91cbf0be-c0a7-4774-9bee-73c4d2677e59",
+        "name": {},
+        "style": {
+          "_class": "style",
+          "fills": [
+            {
+              "_class": "fill",
+              "isEnabled": true,
+              "color": {
+                "_class": "color",
+                "red": 1,
+                "green": 0.7529411764705882,
+                "blue": 0.796078431372549,
+                "alpha": 1
+              },
+              "fillType": 0,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "borders": [
+            {
+              "_class": "border",
+              "isEnabled": true,
+              "color": {
+                "_class": "color",
+                "red": 1,
+                "green": 0,
+                "blue": 0,
+                "alpha": 1
+              },
+              "fillType": 0,
+              "position": 1,
+              "thickness": 2
+            }
+          ],
+          "shadows": [],
+          "innerShadows": [],
+          "endDecorationType": 0,
+          "miterLimit": 10,
+          "startDecorationType": 0,
+          "contextSettings": {
+            "_class": "graphicsContextSettings",
+            "blendMode": 0,
+            "opacity": "1"
+          }
+        }
+      }
+    ]
+  },
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": []
+  },
+  "layerTextStyles": {
+    "_class": "sharedTextStyleContainer",
+    "objects": []
+  },
+  "pages": []
+}

@@ -1,0 +1,54 @@
+{
+  "_class": "document",
+  "do_objectID": "pizza",
+  "assets": {
+    "_class": "assetCollection",
+    "colors": []
+  },
+  "currentPageIndex": 0,
+  "enableLayerInteraction": true,
+  "enableSliceInteraction": true,
+  "foreignSymbols": [],
+  "layerStyles": {
+    "_class": "sharedStyleContainer",
+    "objects": [
+      {
+        "_class": "sharedStyle",
+        "do_objectID": "0a3185cd-1c94-4c54-9efd-f2565e01c6ad",
+        "name": "",
+        "style": {
+          "color": "rgb(0, 0, 0)",
+          "fontSize": 24,
+          "fontFamily": "Times New Roman",
+          "fontWeight": 700,
+          "textDecoration": "none",
+          "textAlign": "start",
+          "textTransform": "none"
+        }
+      },
+      {
+        "_class": "sharedStyle",
+        "do_objectID": "a1f94ac2-0826-431c-8e4c-83d93cf263db",
+        "name": "",
+        "style": {
+          "color": "rgb(0, 0, 0)",
+          "fontSize": 16,
+          "fontFamily": "Optimist",
+          "fontWeight": 400,
+          "textDecoration": "none",
+          "textAlign": "start",
+          "textTransform": "none"
+        }
+      }
+    ]
+  },
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": []
+  },
+  "layerTextStyles": {
+    "_class": "sharedTextStyleContainer",
+    "objects": []
+  },
+  "pages": []
+}

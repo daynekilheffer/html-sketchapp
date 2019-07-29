@@ -24,7 +24,7 @@ const injectedScriptPath = './dist/inject.bundle.js';
 const isTravis = 'TRAVIS' in process.env && 'CI' in process.env;
 const args = isTravis ? ['--no-sandbox', '--disable-setuid-sandbox'] : [];
 
-const testedMehtods = ['nodeToSketchLayers', 'nodeTreeToSketchPage'];
+const testedMehtods = ['nodeToSketchLayers', 'nodeTreeToSketchPage', 'pageToDocument'];
 
 let testBrowser = null;
 let testPage = null;

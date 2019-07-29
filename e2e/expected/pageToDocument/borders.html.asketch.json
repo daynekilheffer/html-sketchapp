@@ -1,0 +1,352 @@
+{
+  "_class": "document",
+  "do_objectID": "pizza",
+  "assets": {
+    "_class": "assetCollection",
+    "colors": []
+  },
+  "currentPageIndex": 0,
+  "enableLayerInteraction": true,
+  "enableSliceInteraction": true,
+  "foreignSymbols": [],
+  "layerStyles": {
+    "_class": "sharedStyleContainer",
+    "objects": [
+      {
+        "_class": "sharedStyle",
+        "do_objectID": "6d527b01-acc5-46f7-84ae-e094dadea30e",
+        "name": "box border1",
+        "style": {
+          "_class": "style",
+          "fills": [
+            {
+              "_class": "fill",
+              "isEnabled": true,
+              "color": {
+                "_class": "color",
+                "red": 0,
+                "green": 0,
+                "blue": 0,
+                "alpha": 0
+              },
+              "fillType": 0,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "borders": [
+            {
+              "_class": "border",
+              "isEnabled": true,
+              "color": {
+                "_class": "color",
+                "red": 1,
+                "green": 0,
+                "blue": 0,
+                "alpha": 1
+              },
+              "fillType": 0,
+              "position": 1,
+              "thickness": 2
+            }
+          ],
+          "shadows": [],
+          "innerShadows": [],
+          "endDecorationType": 0,
+          "miterLimit": 10,
+          "startDecorationType": 0,
+          "contextSettings": {
+            "_class": "graphicsContextSettings",
+            "blendMode": 0,
+            "opacity": "1"
+          }
+        }
+      },
+      {
+        "_class": "sharedStyle",
+        "do_objectID": "e92d3c87-d44d-4509-bdf3-76301be02334",
+        "name": "box border2",
+        "style": {
+          "_class": "style",
+          "fills": [
+            {
+              "_class": "fill",
+              "isEnabled": true,
+              "color": {
+                "_class": "color",
+                "red": 0,
+                "green": 0,
+                "blue": 0,
+                "alpha": 0
+              },
+              "fillType": 0,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "borders": [
+            {
+              "_class": "border",
+              "isEnabled": true,
+              "color": {
+                "_class": "color",
+                "red": 0,
+                "green": 0,
+                "blue": 1,
+                "alpha": 1
+              },
+              "fillType": 0,
+              "position": 1,
+              "thickness": 4
+            }
+          ],
+          "shadows": [],
+          "innerShadows": [],
+          "endDecorationType": 0,
+          "miterLimit": 10,
+          "startDecorationType": 0,
+          "contextSettings": {
+            "_class": "graphicsContextSettings",
+            "blendMode": 0,
+            "opacity": "1"
+          }
+        }
+      },
+      {
+        "_class": "sharedStyle",
+        "do_objectID": "b30e361c-a118-4aee-b4ed-e5282f9063de",
+        "name": "box border1 border-radius",
+        "style": {
+          "_class": "style",
+          "fills": [
+            {
+              "_class": "fill",
+              "isEnabled": true,
+              "color": {
+                "_class": "color",
+                "red": 0,
+                "green": 0,
+                "blue": 0,
+                "alpha": 0
+              },
+              "fillType": 0,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "borders": [
+            {
+              "_class": "border",
+              "isEnabled": true,
+              "color": {
+                "_class": "color",
+                "red": 1,
+                "green": 0,
+                "blue": 0,
+                "alpha": 1
+              },
+              "fillType": 0,
+              "position": 1,
+              "thickness": 2
+            }
+          ],
+          "shadows": [],
+          "innerShadows": [],
+          "endDecorationType": 0,
+          "miterLimit": 10,
+          "startDecorationType": 0,
+          "contextSettings": {
+            "_class": "graphicsContextSettings",
+            "blendMode": 0,
+            "opacity": "1"
+          }
+        }
+      },
+      {
+        "_class": "sharedStyle",
+        "do_objectID": "f6400050-3974-4b27-a0a7-23e730c662d8",
+        "name": "box border1 border-radius2",
+        "style": {
+          "_class": "style",
+          "fills": [
+            {
+              "_class": "fill",
+              "isEnabled": true,
+              "color": {
+                "_class": "color",
+                "red": 0,
+                "green": 0,
+                "blue": 0,
+                "alpha": 0
+              },
+              "fillType": 0,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "borders": [
+            {
+              "_class": "border",
+              "isEnabled": true,
+              "color": {
+                "_class": "color",
+                "red": 1,
+                "green": 0,
+                "blue": 0,
+                "alpha": 1
+              },
+              "fillType": 0,
+              "position": 1,
+              "thickness": 2
+            }
+          ],
+          "shadows": [],
+          "innerShadows": [],
+          "endDecorationType": 0,
+          "miterLimit": 10,
+          "startDecorationType": 0,
+          "contextSettings": {
+            "_class": "graphicsContextSettings",
+            "blendMode": 0,
+            "opacity": "1"
+          }
+        }
+      },
+      {
+        "_class": "sharedStyle",
+        "do_objectID": "4b87acce-ac63-4333-bfae-41c2184ae2fd",
+        "name": "box border-top border-bottom border-left border-right",
+        "style": {
+          "_class": "style",
+          "fills": [
+            {
+              "_class": "fill",
+              "isEnabled": true,
+              "color": {
+                "_class": "color",
+                "red": 0,
+                "green": 0,
+                "blue": 0,
+                "alpha": 0
+              },
+              "fillType": 0,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "borders": [],
+          "shadows": [],
+          "innerShadows": [
+            {
+              "_class": "innerShadow",
+              "isEnabled": true,
+              "blurRadius": 0,
+              "color": {
+                "_class": "color",
+                "red": 0,
+                "green": 1,
+                "blue": 0,
+                "alpha": 1
+              },
+              "contextSettings": {
+                "_class": "graphicsContextSettings",
+                "blendMode": 0,
+                "opacity": 1
+              },
+              "offsetX": 0,
+              "offsetY": 3,
+              "spread": 0
+            },
+            {
+              "_class": "innerShadow",
+              "isEnabled": true,
+              "blurRadius": 0,
+              "color": {
+                "_class": "color",
+                "red": 1,
+                "green": 0,
+                "blue": 0,
+                "alpha": 1
+              },
+              "contextSettings": {
+                "_class": "graphicsContextSettings",
+                "blendMode": 0,
+                "opacity": 1
+              },
+              "offsetX": -2,
+              "offsetY": 0,
+              "spread": 0
+            },
+            {
+              "_class": "innerShadow",
+              "isEnabled": true,
+              "blurRadius": 0,
+              "color": {
+                "_class": "color",
+                "red": 0,
+                "green": 0,
+                "blue": 1,
+                "alpha": 1
+              },
+              "contextSettings": {
+                "_class": "graphicsContextSettings",
+                "blendMode": 0,
+                "opacity": 1
+              },
+              "offsetX": 0,
+              "offsetY": -4,
+              "spread": 0
+            },
+            {
+              "_class": "innerShadow",
+              "isEnabled": true,
+              "blurRadius": 0,
+              "color": {
+                "_class": "color",
+                "red": 0,
+                "green": 0,
+                "blue": 0,
+                "alpha": 1
+              },
+              "contextSettings": {
+                "_class": "graphicsContextSettings",
+                "blendMode": 0,
+                "opacity": 1
+              },
+              "offsetX": 1,
+              "offsetY": 0,
+              "spread": 0
+            }
+          ],
+          "endDecorationType": 0,
+          "miterLimit": 10,
+          "startDecorationType": 0,
+          "contextSettings": {
+            "_class": "graphicsContextSettings",
+            "blendMode": 0,
+            "opacity": "1"
+          }
+        }
+      }
+    ]
+  },
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": []
+  },
+  "layerTextStyles": {
+    "_class": "sharedTextStyleContainer",
+    "objects": []
+  },
+  "pages": []
+}
