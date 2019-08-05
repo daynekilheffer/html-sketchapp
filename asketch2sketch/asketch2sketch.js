@@ -1,4 +1,5 @@
 import UI from 'sketch/ui';
+import {getSelectedDocument} from 'sketch/dom';
 import {fromSJSONDictionary} from 'sketchapp-json-plugin';
 import {fixTextLayer, fixSharedTextStyle} from './helpers/fixFont';
 import fixImageFillsInLayer from './helpers/fixImageFill';
@@ -99,6 +100,10 @@ function addSharedColor(document, colorJSON) {
   assets.addAsset(color);
 }
 
+function addSharedMSColor(colorJSON) {
+  getSelectedDocument().colors.push(fromSJSONDictionary(colorJSON));
+}
+
 export default function asketch2sketch(context, asketchFiles) {
   const document = context.document;
   const page = document.currentPage();
@@ -118,10 +123,21 @@ export default function asketch2sketch(context, asketchFiles) {
     removeSharedColors(document);
     removeSharedTextStyles(document);
 
+    let sharedColors = 0;
+
     if (asketchDocument.assets.colors) {
       asketchDocument.assets.colors.forEach(color => addSharedColor(document, color));
 
-      console.log('Shared colors added: ' + asketchDocument.assets.colors.length);
+      sharedColors += asketchDocument.assets.colors.length;
+    }
+    if (asketchDocument.assets.colorAssets) {
+      asketchDocument.assets.colorAssets.forEach(addSharedMSColor);
+
+      sharedColors += asketchDocument.assets.colorAssets.length;
+    }
+
+    if (sharedColors > 0) {
+      console.log('Shared colors added: ' + sharedColors.length);
     }
 
     if (asketchDocument.layerTextStyles && asketchDocument.layerTextStyles.objects) {

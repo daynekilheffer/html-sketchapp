@@ -1,4 +1,5 @@
-import {generateID, makeColorFromCSS} from '../helpers/utils';
+import {generateID} from '../helpers/utils';
+import ColorAsset from './colorAsset';
 
 function pageToPageReference(page) {
   return {
@@ -42,7 +43,10 @@ class Document {
   }
 
   addColor(color) {
-    this._colors.push(makeColorFromCSS(color));
+    if (color instanceof ColorAsset) {
+      this._colors.push(color);
+    }
+    this._colors.push(ColorAsset.fromCSS(color));
   }
 
   toJSON() {
@@ -51,7 +55,7 @@ class Document {
       'do_objectID': this._objectID,
       'assets': {
         '_class': 'assetCollection',
-        'colors': this._colors
+        'colorAssets': this._colors
       },
       'currentPageIndex': 0,
       'enableLayerInteraction': true,
